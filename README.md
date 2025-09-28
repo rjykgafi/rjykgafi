@@ -33,15 +33,15 @@ I create tools and bots for **airdrop automation, claim processes, farming rewar
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=joberzy&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=rjykgafi&show_icons=true&theme=radical)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joberzy&layout=compact&theme=radical)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjykgafi&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Contacts
 - 📩 Telegram: [@rjykgafi](https://t.me/rjykgafi)  
-- ✉️ Email: your@email  
+- ✉️ Email: rjykgafi@email  
 - 🐦 Twitter: [@rjykgafi](https://twitter.com/rjykgafi)  
 
 ---
